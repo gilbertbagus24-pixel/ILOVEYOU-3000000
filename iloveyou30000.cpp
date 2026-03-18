@@ -12,7 +12,7 @@ int main() {
         cout << "ILOVEYOU " << data.size() << endl;
 
         //~ if (data.size() >= 100) {
-            //~ cout << "Stop biar gak crash" << endl;
+            //~ cout << "SAFETYNET" << endl;
             //~ break;
         //~ }
     }
